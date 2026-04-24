@@ -1,0 +1,25 @@
+{
+  "name": "automationcy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "v22.22.2"
+  },
+  "scripts": {
+    "cypress:web": "npx cypress open",
+    "cypress:headless": "npx cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhelCB/AutomationCY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhelCB/AutomationCY/issues"
+  },
+  "homepage": "https://github.com/MikhelCB/AutomationCY#readme"
+}
